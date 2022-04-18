@@ -12,7 +12,7 @@
 
 😄 Pronouns: He / Him
 
-<h1> I am a Data Scientist and a Machine Learning Engineer with a strong analytical background. Expert in Data Engineering, Data Analytics, Data Science, and Agile Software Development. My work involves developing data-driven solutions. <h1>
+<h1> I am a Data Scientist and a Machine Learning Engineer with a strong analytical background. Expert in Data Engineering, Data Analytics, Data Science, and predictive models. My work involves developing data-driven solutions. As a machine learning engineer, I build and design self-running artificial intelligence (AI) systems that automate predictive models. <h1>
   
 Writing technical tutorials, participating in coding contests, and solving Python and SQL challenges on LeetCode and HackerRank are some of my favorite things to do.
   
