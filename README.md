@@ -1,3 +1,4 @@
+- https://raw.githubusercontent.com/BharathKumarS/BharathKumarS/master/Bharath-Img_Intro.gif
 - 👋Hey, I'm Ankur!
 
 🔭 I’m currently working on :- Data Science Projects
