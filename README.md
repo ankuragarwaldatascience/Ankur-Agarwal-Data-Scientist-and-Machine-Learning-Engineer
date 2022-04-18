@@ -1,4 +1,7 @@
-![WH5U](https://user-images.githubusercontent.com/103935236/163826641-b969234a-0aec-4bc4-a72c-1d6e6195c06b.gif)
+![Glhy](https://user-images.githubusercontent.com/103935236/163827286-3904b843-3dcc-4598-a529-b19a3d0e3e7b.gif)
+
+![WH5U](https://user-images.githubusercontent.com/103935236/163827427-f460c57c-26ba-4aeb-8822-9b468e895a89.gif)
+
 
 
 - 👋Hey, I'm Ankur!
@@ -25,8 +28,10 @@ Writing technical tutorials, participating in coding contests, and solving Pytho
 These are a few of my favorite tech stacks to learn, explore, and practice Machine Learning such as Python, SQL, Hadoop, Scala, GitHub, and AWS.
 
 
+
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
   
+
 
 
 <!---
