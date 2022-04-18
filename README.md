@@ -12,10 +12,11 @@
 
 😄 Pronouns: He / Him
 
-<h1> I'm a Data Scientist and Software Developer with a strong analytical background, and 4+ years of experience using Data Engineering, Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions. <h1>
-I enjoy writing technical tutorial blog articles, Participating in Coding contests, Solving Python, and SQL challenges on LeetCode and HackerRank.
-Python, SQL, Hadoop, Scala, GitHub, and AWS but not limited to are a few of my preferred tech stack to learn, explore, practice Machine Learning.
-
+<h1> I am a Data Scientist and a Software Developer with a strong analytical background. Expert in Data Engineering, Data Analytics, Data Science, and Agile Software Development. My work involves developing data-driven solutions. <h1>
+  
+Writing technical tutorials, participating in coding contests, and solving Python and SQL challenges on LeetCode and HackerRank are some of my favorite things to do.
+  
+These are a few of my favorite tech stacks to learn, explore, and practice Machine Learning such as Python, SQL, Hadoop, Scala, GitHub, and AWS.
 
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
