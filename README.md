@@ -1,4 +1,5 @@
-![AyEj](https://user-images.githubusercontent.com/103935236/163826136-e1e67cce-cb9a-467d-bf3b-f5125d57ae62.gif)
+![WH5U](https://user-images.githubusercontent.com/103935236/163826641-b969234a-0aec-4bc4-a72c-1d6e6195c06b.gif)
+
 
 - 👋Hey, I'm Ankur!
 
@@ -14,6 +15,9 @@
 
 😄 Pronouns: He / Him
 
+![AyEj](https://user-images.githubusercontent.com/103935236/163826833-61258964-3588-4b5f-a9db-dfed55f41f1f.gif)
+
+
 <h1> I am a Data Scientist and a Machine Learning Engineer with a strong analytical background. Expert in Data Engineering, Data Analytics, Data Science, and predictive models. My work involves developing data-driven solutions. As a machine learning engineer, I build and design self-running artificial intelligence (AI) systems that automate predictive models. <h1>
   
 Writing technical tutorials, participating in coding contests, and solving Python and SQL challenges on LeetCode and HackerRank are some of my favorite things to do.
@@ -22,6 +26,8 @@ These are a few of my favorite tech stacks to learn, explore, and practice Machi
 
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+  
+
 
 <!---
 ankuragarwaldatascience/ankuragarwaldatascience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
