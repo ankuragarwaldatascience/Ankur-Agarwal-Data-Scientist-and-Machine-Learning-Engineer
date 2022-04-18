@@ -1,4 +1,5 @@
-- https://raw.githubusercontent.com/BharathKumarS/BharathKumarS/master/Bharath-Img_Intro.gif
+![AyEj](https://user-images.githubusercontent.com/103935236/163826136-e1e67cce-cb9a-467d-bf3b-f5125d57ae62.gif)
+
 - 👋Hey, I'm Ankur!
 
 🔭 I’m currently working on :- Data Science Projects
