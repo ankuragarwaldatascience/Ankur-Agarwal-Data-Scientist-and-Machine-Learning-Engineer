@@ -4,7 +4,7 @@
 
 
 
-- 👋Hey, I'm Ankur!
+- 👋Hey, I'm Ankur
 
 🔭 I’m currently working on :- Data Science Projects
 
